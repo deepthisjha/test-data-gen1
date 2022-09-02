@@ -1,0 +1,1 @@
+docker run -itd -e POSTGRES_USER=d2sdb -e POSTGRES_PASSWORD=qwerty123 -p 5432:5432 --name postgresql postgres
